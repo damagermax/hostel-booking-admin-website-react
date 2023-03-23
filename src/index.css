@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #fafafa;
+}
+
+.modal {
+  background-color: rgba(0, 20, 28, 0.528);
+  z-index: 100;
+}
